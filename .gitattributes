@@ -1,0 +1,11 @@
+go.sum linguist-generated
+*.jpeg binary
+
+*.gif binary
+
+*.md linguist-documentation
+public/*.html linguist-vendored
+src/**/*.ts linguist-detectable
+
+*.woff binary
+*.min.js linguist-generated
